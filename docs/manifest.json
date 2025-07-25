@@ -10,9 +10,9 @@
       "type": "communityViz",
       "name": "HeatmapViz",
       "resources": {
-        "config": "https://cdn.jsdelivr.net/gh/muhittinbilgin/heatmap-viz@main/config.json",
-        "js":     "https://cdn.jsdelivr.net/gh/muhittinbilgin/heatmap-viz@main/heatmap.js",
-        "css":    "https://cdn.jsdelivr.net/gh/muhittinbilgin/heatmap-viz@main/heatmap.css"
+        "config": "https://muhittinbilgin.github.io/heatmap-viz/config.json",
+        "js":     "https://muhittinbilgin.github.io/heatmap-viz/heatmap.js",
+        "css":    "https://muhittinbilgin.github.io/heatmap-viz/heatmap.css"
       }
     }
   ]
