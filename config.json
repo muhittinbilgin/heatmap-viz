@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "dimensions",
+      "label": "Boyutlar",
+      "elements": [
+        {
+          "id": "Day",
+          "label": "Gün (Day of Week)",
+          "type": "DIMENSION",
+          "options": { "min": 1, "max": 1 }
+        },
+        {
+          "id": "Hour",
+          "label": "Saat (Hour)",
+          "type": "DIMENSION",
+          "options": { "min": 1, "max": 1 }
+        }
+      ]
+    },
+    {
+      "name": "metrics",
+      "label": "Metrikler",
+      "elements": [
+        {
+          "id": "Transactions",
+          "label": "Transactions",
+          "type": "METRIC",
+          "options": { "min": 1, "max": 1 }
+        }
+      ]
+    }
+  ]
+}
