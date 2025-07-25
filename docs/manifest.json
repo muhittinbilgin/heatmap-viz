@@ -1,0 +1,19 @@
+{
+  "name": "Gün×Saat Isı Haritası",
+  "organization": "Sizin Şirket",
+  "description": "GA4 Transactions heatmap by Day of Week and Hour",
+  "version": "1.0",
+  "devMode": true,
+  "components": [
+    {
+      "id": "heatmap",
+      "type": "communityViz",
+      "name": "HeatmapViz",
+      "resources": {
+        "config": "https://muhittinbilgin.github.io/heatmap-viz/config.json",
+        "js":     "https://muhittinbilgin.github.io/heatmap-viz/heatmap.js",
+        "css":    "https://muhittinbilgin.github.io/heatmap-viz/heatmap.css"
+      }
+    }
+  ]
+}
